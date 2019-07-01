@@ -1,5 +1,5 @@
 {"version_code":452646,"content":"
-<p>تحديث 6.35</p>
+<p>تحديث 6.40</p>
 <li> التحديث لنسخة الماركت 2.19.17.327 </li>
 <li>نسخه ضد الحظر</li>
 <li>نسخة ضد الحظر (في حال تم حظر رقمك في وقت سابق يجب عمل نسخة احتياطية للمحادثات ثم حذف الواتس اب وتثبيته من جديد)</li>
@@ -16,7 +16,7 @@
 <li>اصلاحات اخرى</li>
 <li> تعديل علاء اسماعيل<li>
 
-<p>New Base Updated 6.35</p>
+<p>New Base Updated 6.40</p>
 <p> Update method: Click Open. You will see the explanation article. You will find links in golden, red and blue. Download and install the new version without deleting the old version </ p>
 
 
